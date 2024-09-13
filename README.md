@@ -1,16 +1,24 @@
-## Hi there 👋
+## Boas vindas ao meu perfil✋💙
 
-<!--
-**jeanmarygabriella37/jeanmarygabriella37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá meu nome é Gabriela jean-mary Da-sandry
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](http://www.alura.com.br);
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScript;
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos;
+
+### Você entra em contato comigo📫
+
+jeanmarygabriella37@gmail.com
+
+@Gaboo
+
+![image](https://github.com/user-attachments/assets/b7721fb1-8d72-4267-a521-da8aae9b874a)
+
+
+
+
+
+
+
